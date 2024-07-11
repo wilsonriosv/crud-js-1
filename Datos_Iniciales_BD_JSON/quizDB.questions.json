@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "668e9eacbd2d974344f186a9"
+  },
+  "question": "¿Qué es JavaScript?",
+  "options": [
+    "Un lenguaje de programación",
+    "Un navegador web",
+    "Un sistema operativo",
+    "Un lenguaje de marcado"
+  ],
+  "correct": "a"
+},
+{
+  "_id": {
+    "$oid": "668e9eacbd2d974344f186aa"
+  },
+  "question": "¿Cuál es el propósito de JavaScript?",
+  "options": [
+    "Desarrollo de aplicaciones de servidor",
+    "Desarrollo de aplicaciones de escritorio",
+    "Desarrollo de aplicaciones web",
+    "Desarrollo de sistemas operativos"
+  ],
+  "correct": "c"
+},
+{
+  "_id": {
+    "$oid": "668e9eacbd2d974344f186ab"
+  },
+  "question": "¿Cuál de las siguientes es una estructura de control en JavaScript?",
+  "options": [
+    "<if>",
+    "<else>",
+    "if-else",
+    "<when>"
+  ],
+  "correct": "c"
+},
+{
+  "_id": {
+    "$oid": "668e9eacbd2d974344f186ac"
+  },
+  "question": "¿Cómo se declara una variable en JavaScript?",
+  "options": [
+    "variable x;",
+    "let x;",
+    "var x;",
+    "declare x;"
+  ],
+  "correct": "b"
+},
+{
+  "_id": {
+    "$oid": "668e9eacbd2d974344f186ad"
+  },
+  "question": "¿Cuál de las siguientes es una biblioteca de JavaScript?",
+  "options": [
+    "React",
+    "Laravel",
+    "Django",
+    "Ruby on Rails"
+  ],
+  "correct": "a"
+}]

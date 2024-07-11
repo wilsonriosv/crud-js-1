@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "668ea208bd2d974344f186b2"
+  },
+  "userId": "668e9551bd2d974344f1869a",
+  "quizCode": "quiz1",
+  "score": 3
+},
+{
+  "_id": {
+    "$oid": "668ea208bd2d974344f186b3"
+  },
+  "userId": "668e9551bd2d974344f1869b",
+  "quizCode": "quiz1",
+  "score": 4
+}]

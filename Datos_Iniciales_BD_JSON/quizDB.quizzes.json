@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "668ea1b6bd2d974344f186af"
+  },
+  "code": "quiz1",
+  "questions": [
+    "668e9eacbd2d974344f186a9",
+    "668e9eacbd2d974344f186aa",
+    "668e9eacbd2d974344f186ab",
+    "668e9eacbd2d974344f186ac",
+    "668e9eacbd2d974344f186ad"
+  ]
+}]
